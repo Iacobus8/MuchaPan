@@ -1,0 +1,3 @@
+SELECT zespol1, zespol2, wynik, data_rozgrywki FROM `rozgrywka` WHERE zespol1 = "EVG";
+
+SELECT imie, nazwisko FROM `zawodnik` WHERE id = 3;
